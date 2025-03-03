@@ -39,7 +39,7 @@ Quantum-Safe-Cryptography/
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/Quantum-Safe-Cryptography.git
+git clone https://github.com/ahmeterdempmk/Quantum-Safe-Cryptography.git
 cd Quantum-Safe-Cryptography
 ```
 
